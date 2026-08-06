@@ -59,6 +59,3 @@ Tech innovator blending code and design to build impactful digital experiences. 
 </p>
 
 
----
-<p align="center"><i>⭐️ From <a href="https://github.com/ghufran-Shahid-tech">ghufran-Shahid-tech</a></i></p>......
-

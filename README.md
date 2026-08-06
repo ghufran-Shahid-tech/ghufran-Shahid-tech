@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="dino.gif" alt="Coding Dino" width="300">
+  <img src="https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/dino.gif" width="100%" />
 </p>
 
 <p align="center">

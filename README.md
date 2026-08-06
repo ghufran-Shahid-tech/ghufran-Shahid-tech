@@ -12,12 +12,12 @@
 
 Tech innovator blending code and design to build impactful digital experiences. Lifelong learner, problem solver, and future-driven creator
 
-🔭 &nbsp;I'm currently working on **Building a real-time collaboration engine.**  
-🌱 &nbsp;I'm currently learning **Rust and distributed systems.**  
-🤔 &nbsp;I'm looking for help with **Open-source developer tools and scalable architectures.**  
-💬 &nbsp;Ask me about **React, Node.js, API design**  
-😄 &nbsp;Pronouns: **he/him**  
-⚡ &nbsp;Fun fact: **I once debugged from a mountaintop.**
+ &nbsp;I'm currently working on **Building a real-time collaboration engine.**  
+ &nbsp;I'm currently learning **Rust and distributed systems.**  
+ &nbsp;I'm looking for help with **Open-source developer tools and scalable architectures.**  
+ &nbsp;Ask me about **React, Node.js, API design**  
+ &nbsp;Pronouns: **he/him**  
+ &nbsp;Fun fact: **I once debugged from a mountaintop.**
 
 ### 🛠️ Tech Stack
 

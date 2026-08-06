@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="dino.gif" alt="Coding Dino" width="300">
+</p>
 
 <p align="center">
   <a href="https://github.com/ghufran-Shahid-tech">
